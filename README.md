@@ -32,7 +32,7 @@ Task2-DatabaseProject-Java/
 - MySQL 8.0+
 - Maven 3.6+
 
-### Step 1: Database Setup
+### Database Setup
 ```sql
 CREATE DATABASE student_management;
 USE student_management;
