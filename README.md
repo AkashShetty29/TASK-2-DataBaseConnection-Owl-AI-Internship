@@ -47,7 +47,7 @@ Task2/
 | course | VARCHAR(50) | Student course name |
 
 ### Example SQL to create the database:
-mysql>
+```sql
 CREATE DATABASE student_db;
 USE student_db;
 
@@ -58,8 +58,8 @@ CREATE TABLE students (
     age INT,
     course VARCHAR(50)
 );
- -> \c
-mysql>
+
+```
 
 
 Student Database Retrieval System
@@ -78,7 +78,7 @@ Student Database Retrieval System
 |  1  | Akash Shetty         | akash@example.com          | 22  | Java Development     |
 +-----+----------------------+---------------------------+-----+----------------------+
 
-##🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 ☕ Java (JDK 17 or higher)
 
@@ -88,7 +88,7 @@ Student Database Retrieval System
 
 🧰 Eclipse
 
-##🚀 Future Enhancements
+## 🚀 Future Enhancements
 
 Add CRUD operations (Insert, Update, Delete)
 
@@ -98,7 +98,7 @@ Integrate Spring Boot for better scalability
 
 Add exception logging and unit testing
 
-##✨ Author
+## ✨ Author
 
 Akash Shetty
 📧 akash.shetty.ec@gmail.com
