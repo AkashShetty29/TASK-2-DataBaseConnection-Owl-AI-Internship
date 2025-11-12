@@ -19,16 +19,24 @@ The application allows users to view all students, search by ID, and filter stud
 
 ## 🏗️ Project Structure
 
+## 📂 Task2 Project Structure
+
+```bash
 Task2/
 ├── config/
-│ └── DatabaseConfig.java # Contains DB connection setup and SQL queries
-├── doa/
-│ └── StudentDao.java # Handles all database retrieval operations
+│   └── DatabaseConfig.java          # Contains DB connection setup and SQL queries
+│
+├── dao/
+│   └── StudentDao.java              # Handles all database retrieval operations
+│
 ├── entity/
-│ └── Student.java # Represents the Student entity (POJO)
+│   └── Student.java                 # Represents the Student entity (POJO)
+│
 ├── main/
-│ └── Main.java # Entry point with console-based menu
-└── README.md # Project documentation
+│   └── Main.java                    # Entry point with console-based menu
+│
+└── README.md                        # Project documentation
+```
 
 
 ---
