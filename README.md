@@ -79,17 +79,17 @@ Student Database Retrieval System
  4. Exit
  Choose an option (1-4): 1
 
-ALL STUDENTS
-Retrieved 5 students from database.
-+-----+----------------------+---------------------------+-----+----------------------+
-| ID  | Name                 | Email                     | Age | Course               |
-+-----+----------------------+---------------------------+-----+----------------------+
-| 1   | John Doe             | john.doe@example.com      | 22  | Computer Science     |
-| 2   | Jane Smith           | jane.smith@example.com    | 21  | Electrical Engineering |
-| 3   | Bob Johnson          | bob.johnson@example.com   | 23  | Mechanical Engineering|
-| 4   | Alice Brown          | alice.brown@example.com   | 20  | Computer Science     |
-| 5   | Charlie Wilson       | charlie.wilson@example.com| 24  | Data Science         |
-+-----+----------------------+---------------------------+-----+----------------------+
+### 📋 ALL STUDENTS  
+Retrieved **5 students** from database.
+
+| ID | Name           | Email                      | Age | Course                    |
+|----|----------------|-----------------------------|-----|----------------------------|
+| 1  | John Doe       | john.doe@example.com        | 22  | Computer Science           |
+| 2  | Jane Smith     | jane.smith@example.com      | 21  | Electrical Engineering     |
+| 3  | Bob Johnson    | bob.johnson@example.com     | 23  | Mechanical Engineering     |
+| 4  | Alice Brown    | alice.brown@example.com     | 20  | Computer Science           |
+| 5  | Charlie Wilson | charlie.wilson@example.com  | 24  | Data Science               |
+
 
 ## 🛠️ Technologies Used
 
